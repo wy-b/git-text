@@ -3,5 +3,6 @@ public class GitText {
 
 
         System.out.println("hello,world!!!");
+        System.out.println("你好，世界!!!");
     }
 }
